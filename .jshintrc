@@ -1,0 +1,30 @@
+{
+  "camelcase": true,
+  "indent": 2,
+  "undef": true,
+  "quotmark": false,
+  "maxlen": 80,
+  "trailing": true,
+  "curly": true,
+  "strict": false,
+  "browser": true,
+  "jquery": true,
+  "esversion": 6,
+  "predef": ["$", "jQuery", "text", "$p", "window", "document", "console", "parent"],
+  "eqeqeq": true,
+  "funcscope": true,
+  "futurehostile": true,
+  "latedef": true,
+  "nonbsp": true,
+  "notypeof": true,
+  "shadow": "outer",
+  "singleGroups": true,
+
+  "unused": true,
+
+  "debug": true,
+  "scripturl": true,
+
+  "-W079": true
+
+}
